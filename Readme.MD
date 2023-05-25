@@ -13,3 +13,21 @@
 <p>8. create an else statement if the confirmed password is not aligning with teh password created</p>
 <p>9. inside the else statement create a print statement to print the statement for password verification failed</p>
 <p>10. then leave the if and while statement and call the name of the function for verified password so has to make it a recursion </p>
+<p>11.define a function for user login </p>
+<p>12.create a while loop with the statement while true</p>
+<P>13.create a variable and store password gotten from the user</P>
+<P>14.create a variable and store confirmation password gotten from the user</P>
+<P>15.create an if conditional statement Check if the user inputted password matches the verify password and the user info verify password</P>
+<P>If there is a match, print "Password verified successfully!" including the username and password. Then, break the loop</P>
+<P>If there is no match, print "Password verification failed. Retry"</P>
+<P>End the password verification algorithm</P>
+<P>Begin the algorithm for user info verification</P>
+<P>Implement the steps to verify user information such as username, email and security questions</P>
+<P>Return a success message if all details are confirmed</P>
+<P>If any detail is incorrect, prompt the user to retry or recover their account</P>
+<P>End the user info verification algorithm</P>
+
+
+
+
+ 
