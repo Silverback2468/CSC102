@@ -18,14 +18,14 @@
 <P>13.create a variable and store password gotten from the user</P>
 <P>14.create a variable and store confirmation password gotten from the user</P>
 <P>15.create an if conditional statement Check if the user inputted password matches the verify password and the user info verify password</P>
-<P>If there is a match, print "Password verified successfully!" including the username and password. Then, break the loop</P>
-<P>If there is no match, print "Password verification failed. Retry"</P>
-<P>End the password verification algorithm</P>
-<P>Begin the algorithm for user info verification</P>
-<P>Implement the steps to verify user information such as username, email and security questions</P>
-<P>Return a success message if all details are confirmed</P>
-<P>If any detail is incorrect, prompt the user to retry or recover their account</P>
-<P>End the user info verification algorithm</P>
+<P>16.If there is a match, print "Password verified successfully!" including the username and password. Then, break the loop</P>
+<P>17.If there is no match, print "Password verification failed. Retry"</P>
+<P>18.End the password verification algorithm</P>
+<P>19.Begin the algorithm for user info verification</P>
+<P>20.Implement the steps to verify user information such as username, email and security questions</P>
+<P>21.Return a success message if all details are confirmed</P>
+<P>22.If any detail is incorrect, prompt the user to retry or recover their account</P>
+<P>23.End the user info verification algorithm</P>
 
 
 
