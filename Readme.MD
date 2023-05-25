@@ -1,7 +1,7 @@
 <h1>Algorithm for password creation</h1>
-<h2><p>Name: </p>
-    <p>Matric No.: </p> 
-    <p>Course:</p>
+<h2><p>Name: Saliu Ayatullahi Ifeoluwa</p>
+    <p>Matric No. EU2022102-3115: </p> 
+    <p>Course: Computer science</p>
 </h2>
 <p>1. define a function</p>
 <p>2. inside the function create a while loop with the boolean statement true</p>
